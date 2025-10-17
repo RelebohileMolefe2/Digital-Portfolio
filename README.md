@@ -64,7 +64,7 @@ This digital portfolio is a reflection of my professional journey, highlighting 
 ## 4. Create a CV
 
 ### Evidence
-- [ View My CV (PDF, Opens in Browser)](https://github.com/user-attachments/files/20416166/CV_RB.MOLEFE.pdf) — This document outlines my qualifications, technical proficiencies, education, and project work including GreenHub and a Java-based voting system.
+- [ View My CV (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Digital-Portfolio/blob/main/CV_RB%20MOLEFE.pdf) — This document outlines my qualifications, technical proficiencies, education, and project work including GreenHub and a Java-based voting system.
 
 ### Reflection (STAR)
 **S**ituation: Required a professional CV to apply for the Capitec WIL program.  
