@@ -90,7 +90,7 @@ This digital portfolio is a reflection of my professional journey, highlighting 
 
 ## Bonus Projects
 
-### [GreenHub – View Project on GitHub](https://github.com/relebohilemolefe/greenhub)
+### [GreenHub – View Project on GitHub](https://github.com/RelebohileMolefe2/The-Green-App)
 - A web-based recycling education platform that helps users find nearby recycling centers and features two educational games: Recycle Quiz and Recycle Rush.
 - Stack: PHP, MySQL, JavaScript, HTML, CSS
 
